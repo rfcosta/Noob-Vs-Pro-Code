@@ -33,8 +33,8 @@ function validateUser(user) {
 
 const user = {
     id: 1,
-    username: 'WDS',
-    password: 'password'
+    username: 'RG',
+    password: 'weak'
 };
 
 const { errors, valid } = validateUser(user)
